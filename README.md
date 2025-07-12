@@ -40,7 +40,7 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 
 ## 🌟 Appreciation for Resources
 
-Special thanks to EMKC for providing the Piston API, enabling code execution. For more information, visit the following links:
+Piston API, enabling code execution. For more information, visit the following links:
 
 -   [Piston Repository](https://github.com/engineer-man/piston)
 -   [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
